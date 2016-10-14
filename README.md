@@ -6,7 +6,7 @@
   * 3sass -v   查看sass版本
 
 * compass安装
-  * 1gem install compass
+  * gem install compass
 
 * compass常用使用
   * compass -v 参看版本
